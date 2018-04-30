@@ -21,7 +21,7 @@ Digite seu nome: Victor Lima
 Digite sua senha:  <-- O usuário pode digitar a senha aqui, mas ela não vai ser exibida
 ```
 
-E para usar a Getpass é muito simples, primeiro import ela no ínicio do seu script:
+E para usar a ```getpass``` é muito simples, primeiro importe ela no ínicio do seu script:
 
 ```python
 import getpass

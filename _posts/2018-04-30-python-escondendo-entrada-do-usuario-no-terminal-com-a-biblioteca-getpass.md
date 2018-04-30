@@ -5,9 +5,6 @@ date:   2018-04-30 18:16:01 -0600
 categories: Python
 ---
 
-
-# Python - Escondendo entrada do usuário no terminal com a biblioteca Getpass.
-
 As vezes é comum você querer desenvolver algum script em Python, que vá solicitar que o usuário digite informações sensíveis, como senhas e tokens. O grande problema disso é que, quando o usuário vai inserir essas informações atráves do terminal ou CMD, a mesma, fica totalmente exposta, e isso, por si só é um grande problema de segurança.
 
 Exemplo(No cmd do Windows):

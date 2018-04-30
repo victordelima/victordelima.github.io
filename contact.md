@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contato
-tagline: Create a contact form and you are good to go
+tagline: Entre em contato
 ---
 
 Oi tudo bem? caso tenha interesse em entrar em contato, tirar alguma dúvida, contratar serviços, ou fazer consultoria, abaixo minhas informações de contato: 
@@ -9,4 +9,4 @@ Oi tudo bem? caso tenha interesse em entrar em contato, tirar alguma dúvida, co
 1. [Facebook](https://www.facebook.com/14mar0bo7)
 2. Email: victordevtb@outlook.com
 
-[Go to the Home Page](./)
+[Ir para a página inicial](./)
